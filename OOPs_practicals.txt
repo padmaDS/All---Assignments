@@ -1,0 +1,55 @@
+
+Create a class Person with attributes name and age. Write a method to display these attributes.
+
+Create two instances of the Person class and display their information.
+
+Add a constructor (__init__) method to initialize attributes while creating the object.
+
+Write a class Rectangle with attributes length and width. Add a method to compute area.
+
+Create a class Car with methods to start the car, stop the car, and display car status.
+
+Modify the Person class to make age a private variable. Add getter and setter methods.
+
+Create a base class Animal with a method speak(). Derive classes Dog and Cat that override this method.
+
+Create a class BankAccount with deposit and withdraw methods. Make the balance private.
+
+Create a class Employee with subclasses Manager and Engineer. Each should have its own method to display the job role.
+
+Demonstrate the use of super() to call a parent class method in a child class.
+
+Contact Manager App: Class for storing contact details (name, phone, email) and methods to add, delete, and search contacts.
+
+Library Management: Class Book, class Library to store books, methods to borrow and return.
+
+Simple Banking System: Class Account with balance, methods to deposit, withdraw, and check balance.
+
+Create a class Laptop with attributes: brand, processor, and ram. Write a method to display laptop details.
+
+Write a class Student with attributes name, marks in three subjects. Add a method to calculate average marks.
+
+Define a class Movie with attributes: title, director, and year. Instantiate 3 movies and print their details.
+
+Create a class Temperature that stores a temperature in Celsius and has methods to convert it to Fahrenheit and Kelvin.
+
+Write a class Counter with a method to increment, decrement, and show the current count.
+
+Create a class Vehicle with a method move(). Inherit classes Car and Boat and override move() in each.
+
+Write a class Book with private attributes title and author. Provide getter and setter methods.
+
+Create a class Calculator with methods for basic operations (+, -, , /). Demonstrate method overloading (using default args).
+
+Build a class Person with a class variable population that tracks how many people have been created.
+
+Create a class Account with protected member _balance. Inherit it in a SavingsAccount class and override the withdraw() method to allow limited withdrawals.
+
+Create a class Robot with methods greet() and identify(). Inherit a class HumanoidRobot and override the greet() method.
+
+Create a class Bank that stores customer accounts. Use a dictionary to map account numbers to balance. Add deposit and withdrawal methods.
+
+Make a Student class that includes a list of grades and provides methods to add a grade, calculate average, and determine letter grade.
+
+Create a class InvoiceItem that stores item name, quantity, and price. Add a method to calculate total cost.
+

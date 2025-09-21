@@ -1,0 +1,47 @@
+Write a function print_info(**kwargs) that prints all the key-value pairs passed to it.
+
+Create a function greet_people(**kwargs) where each key is a person's name and the value is their greeting. Print out a greeting for each person.
+
+Write a function person_details(name, age, **kwargs) that prints name and age, and then any additional information passed in.
+
+Define a function build_profile(**kwargs) that builds and returns a dictionary of user profile information.
+
+Write a function combine_dicts(**kwargs) that takes multiple keyword arguments and returns them as a single dictionary.
+
+Create a function sum_named_numbers(**kwargs) that sums all the values passed as keyword arguments (assume all values are numbers).
+
+Define a function filter_keywords(**kwargs) that only returns keyword arguments where the value is a string.
+
+Write a decorator function debug_info(func) that prints **kwargs passed to any wrapped function.
+
+Write a function print_styled_text(text, **styles) that applies style options like bold=True, italic=True, etc., and prints how the text should be styled.
+
+Write a function custom_message(**kwargs) where it checks for specific keys like name, time, and location and builds a formatted message if those keys exist.
+
+Write a program that takes user input for two numbers and divides them. Use try-except to catch divide-by-zero errors.
+
+Create a function that reads an integer from user input. Use try-except to handle invalid (non-integer) input.
+
+Write a function that opens a file by name. Use exception handling to catch the case where the file doesn’t exist.
+
+Write a calculator function that takes two numbers and an operation (+, -, *, /) and handles any potential exceptions (e.g., division by zero, invalid operation).
+
+Make a function get_list_item(lst, index) that returns the element at the given index. Catch exceptions if the index is out of range.
+
+Write a function called greet that takes a name as input and prints "Hello, [name]!"
+
+Create a function add_numbers that takes two numbers as arguments and returns their sum.
+
+Write a function is_even that returns True if a number is even, and False otherwise.
+
+Define a function factorial that returns the factorial of a given number.
+
+Create a function reverse_string that takes a string and returns it reversed.
+
+Write a function max_of_three that returns the largest of three numbers.
+
+Define a function count_vowels that returns the number of vowels in a string.
+
+Write a function fibonacci(n) that returns the nth Fibonacci number.
+
+

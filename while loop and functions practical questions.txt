@@ -1,0 +1,59 @@
+While Loop practicals:
+
+1. Print Numbers from 1 to 10
+
+Expected Output: 1 2 3 ... 10
+
+2. Sum of Numbers from 1 to N
+
+Input: 5
+Expected Output: 15 (1+2+3+4+5)
+
+3. Print Even Numbers up to N
+Input: 10
+Expected Output: 2 4 6 8 10
+
+4. Count Digits in a Number
+
+Input: 12345
+Expected Output: 5
+
+5.Reverse a Number
+Input: 1234
+Output: 4321
+
+6. Check if a Number is a Palindrome
+Input: 121
+Output: True
+
+Funcitons:
+
+Function to Add Two Numbers
+
+1. def add(a, b):
+    # Your code here
+
+Function to Find Maximum of Three Numbers
+
+2. def max_of_three(a, b, c):
+    # Your code here
+Function to Check Prime Number
+
+3. def is_prime(n):
+    # Returns True if prime, else False
+
+4. Function to Calculate Factorial
+
+def factorial(n):
+    # Your code here using while loop
+
+5.Function to Print Fibonacci Series up to N terms
+
+def fibonacci(n):
+    # Your code here using while loop
+
+6.Function to Count Vowels in a String
+def count_vowels(s):
+    # Your code here
+
+

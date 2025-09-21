@@ -1,0 +1,84 @@
+Question:
+Write a program to count how many times the letter "e" appears in the input string.
+🧪 Input: "experience elevates everyone"
+✅ Output: e occurs 6 times
+
+📌 Question:
+Check if the string starts with the word "Hello"
+🧪 Input: "Hello, how are you?"
+✅ Output: True
+
+🧪 Input: "Hi there!"
+✅ Output: False
+
+📌 Question:
+Check if the string ends with ".com"
+🧪 Input: "example.com"
+✅ Output: True
+
+🧪 Input: "example.org"
+✅ Output: False
+
+
+📌 Question:
+Check if the input string contains only alphabetic characters
+🧪 Input: "HelloWorld"
+✅ Output: True
+
+🧪 Input: "Hello123"
+✅ Output: False
+
+
+📌 Question:
+Check if the input string contains only numbers
+🧪 Input: "12345"
+✅ Output: True
+
+🧪 Input: "12a45"
+✅ Output: False
+
+
+Question:
+How many words start with the letter 's'?
+🧪 Input: "sun shines on sandy shores"
+✅ Output: 4
+
+
+Question:
+Write a program that takes a string and converts it to all uppercase.
+🧪 Input: "hello world"
+✅ Output: "HELLO WORLD"
+
+
+📌 Question:
+Convert the given sentence to lowercase.
+🧪 Input: "Python Is FUN"
+✅ Output: "python is fun"
+
+
+📌 Question:
+Check if the input string is entirely in uppercase letters.
+🧪 Input: "WELCOME"
+✅ Output: True
+
+🧪 Input: "Welcome"
+✅ Output: False
+
+
+📌 Question:
+Check if the input string is entirely in lowercase letters.
+🧪 Input: "python"
+✅ Output: True
+
+🧪 Input: "Python"
+✅ Output: False
+
+
+📌 Question:
+Capitalize only the first letter of the string.
+🧪 Input: "hello world"
+✅ Output: "Hello world"
+
+🧪 Input: "PYTHON"
+✅ Output: "Python"
+

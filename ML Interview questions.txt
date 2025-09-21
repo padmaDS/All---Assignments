@@ -1,0 +1,27 @@
+Hello Everyone,
+
+Good evening.
+
+Here is the Question 3: 
+
+What is Unsupervised Machine Learning?
+
+It will train with unlabeled data.
+
+These algorithms are designed to find structures, hidden patterns, and relationships within the data,
+without human intervention.
+
+Unsupervised ML algorithms form the clusters / Groups based on similar characteristics.
+
+Here we do not have any dependent or independent features.
+
+Examples:
+
+Customer Segmentation, News Classification and more
+
+Thank you.
+
+Happy Learning. 😊 
+
+hashtag#MachineLearning, hashtag#ML, hashtag#DeepLearning,, hashtag#DL, hashtag#Datascience, hashtag#DS, hashtag#AI,
+hashtag#Artificial Intelligence, hashtag#interviewquestions, hashtag#interviewprepation, hashtag#LLM, hashtag#Largelanguagemodel

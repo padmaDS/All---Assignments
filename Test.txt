@@ -1,0 +1,43 @@
+Write a Python function to check if a number is prime.
+Write a Python function that returns the sum of elements in a list.
+Write a Python function to find the maximum of three numbers.
+
+Write a Python program to read a text file and display its contents.
+Write a Python program to count the number of lines in a file.
+Write a Python program to write a list of numbers to a file.
+Write a Python program to read a file and count the occurrence of a specific word.
+Write a Python program to append text to an existing file.
+Write a Python program to calculate the sum of elements in a list using list comprehension.
+Write a Python program to count the number of words in a string.
+Write a Python program using a lambda function to find the square of a number.
+Write a Python program to handle division by zero using try-except.
+Write a Python program to check if a key exists in a dictionary.
+Write a Python program to remove duplicates from a list using a set.
+Write a function that takes a string and returns the reversed string.
+Write a Python function that takes two numbers as arguments and returns their sum.
+Write a function to check whether a given number is even or odd.
+Write a function that takes a number as input and returns the square of that number.
+Write a function that takes a list of numbers and returns a new list containing only the even numbers.
+Write a function that takes two strings and concatenates them.
+Write a function that returns multiple values (sum, difference, product, and quotient of two numbers).
+Write a function that takes a string and returns both its uppercase and lowercase versions.
+Write a function that takes a list and returns a new list with unique elements only.
+Write a function that takes a dictionary and returns the key with the highest value.
+Write a function that returns the length of the longest word in a list of words.
+Write a Python program to reverse a string using a for loop.
+Write a Python program to count the number of vowels in a given string using a for loop.
+Write a Python program to print all odd numbers from 1 to 50 using a for loop and an if statement.
+Write a Python program to count how many numbers in a list are greater than 10.
+Write a Python program to print all numbers divisible by both 3 and 5 between 1 and 100.
+Write a function to find the maximum of three numbers.
+Write a function that takes a number as input and returns its factorial.
+Write a function to check if a given string is a palindrome.
+Write a function that takes a list of numbers and returns the sum of all even numbers.
+Write a function to reverse a string without using built-in functions.
+Write a function to count the number of vowels in a given string.
+Write a function that accepts a number n and returns the Fibonacci series up to n terms.
+Write a function to check if a number is prime or not.
+Write a function that takes two numbers as input and returns their greatest common divisor (GCD).
+Write a function that accepts a list of numbers and returns a new list with unique elements only.
+
+

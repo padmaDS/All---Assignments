@@ -1,0 +1,100 @@
+
+What are Python’s main features compared to other programming languages?
+
+Explain Python’s memory management (garbage collection, reference counting).
+
+What are mutable and immutable types in Python? Give examples.
+
+What are Python’s data types?
+
+What is the difference between is and == in Python?
+
+Write a program to check if a string is a palindrome.
+
+Write a program to calculate the factorial of a number using loops.
+
+Write a program to find all Armstrong numbers in a given range.
+
+Write a program to print the Fibonacci sequence up to n terms.
+
+Write a program to check if a year is a leap year.
+
+What is the difference between functions and methods in Python?
+
+Explain the difference between positional, keyword, default, and variable-length arguments.
+
+What are higher-order functions? Give examples.
+
+What are map(), filter(), and reduce()?
+
+Explain recursion with an example.
+
+Write a function to calculate the GCD of two numbers.
+
+Write a recursive function to calculate the nth Fibonacci number.
+
+Write a lambda function to return squares of a list of numbers.
+
+Write a function with default arguments (greet(name="Guest")).
+
+Write a function using *args and **kwargs.
+
+Explain different file modes in Python (r, w, a, rb, wb).
+
+What are context managers in Python (with statement)?
+
+Explain the difference between checked and unchecked exceptions (Python vs Java).
+
+How does Python handle exceptions internally?
+
+What is the difference between raise and assert?
+
+Write a program to read a text file and print its contents.
+
+Write a program to count the number of words and lines in a file.
+
+Write a program to handle ZeroDivisionError using try-except.
+
+Write a program to create and raise a custom exception.
+
+Write a program to write user input into a file.
+
+What are the four pillars of OOP? Explain with Python examples.
+
+Explain class vs instance variables with an example.
+
+What is the difference between @staticmethod, @classmethod, and instance methods?
+
+What is multiple inheritance? How does Python resolve ambiguity (MRO)?
+
+What is encapsulation? How is it implemented in Python?
+
+Write a class Car with attributes brand, model, and a method to display details.
+
+Create a class BankAccount with deposit and withdraw methods.
+
+Write a program to demonstrate inheritance (Person → Student).
+
+Write a program to demonstrate operator overloading (__add__).
+
+Write a program to demonstrate method overriding.
+
+Write a program to demonstrate private variables and encapsulation.
+
+Write a program to demonstrate @staticmethod and @classmethod.
+
+Write a program to implement polymorphism using the same method name in different classes.
+
+Write a program to implement an abstract class and subclass.
+
+Write a class with method chaining support.
+
+What are Python decorators? Explain with an example.
+
+What are generators? Difference between yield and return.
+
+Explain list comprehensions vs generator expressions.
+
+Write a generator function to yield even numbers up to n.
+
+Write a decorator to log the execution time of a function.

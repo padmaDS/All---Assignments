@@ -1,0 +1,122 @@
+Even or Odd"
+Write a program that takes an integer input from the user and prints whether it is even or odd.
+
+Positive, Negative, or Zero"
+Write a program to check if a number is positive, negative, or zero.
+
+Find the Largest Number:
+Write a program that takes three numbers as input and prints the largest among them.
+
+Leap Year Check:
+Write a program that checks if a given year is a leap year.
+(A year is a leap year if it is divisible by 4 but not by 100, or it is divisible by 400.)
+
+Vowel or Consonant:
+Write a program that takes a character as input and checks whether it is a vowel or a consonant.
+
+Divisible by 3 and 5:
+Write a program that checks if a given number is divisible by both 3 and 5.
+
+
+Print Numbers from 1 to 20:
+Use a loop to print all numbers from 1 to 20.
+
+Print Even Numbers:
+Write a program to print all even numbers between 1 and 50.
+
+Sum of Numbers:
+Calculate the sum of all numbers from 1 to 100 using a loop.
+
+Multiplication Table:
+Write a program that prints the multiplication table for a number entered by the user.
+
+Factorial Calculation:
+Write a program to find the factorial of a given number.
+
+Filter List Elements"
+Given a list of numbers, use a loop to print only the numbers that are greater than 10.
+
+Break on Condition"
+Write a loop that prints numbers from 1 onwards but stops when the number is greater than 10.
+
+Continue Statement"
+Write a program that prints all numbers from 1 to 15 except the multiples of 3 using the continue statement.
+
+Nested Loops – Pattern Printing
+Use nested loops to print the following pattern:
+
+*
+**
+***
+****
+
+Take Input Until Exit:
+Write a program that keeps asking the user to input a word and stops only when the user types "exit".
+
+Check Prime Number:
+Write a program that checks if a number entered by the user is a prime number or not.
+
+Grade Calculator:
+Take a percentage as input and print the corresponding grade:
+
+90–100 → A
+
+80–89 → B
+
+70–79 → C
+
+60–69 → D
+
+Below 60 → F
+
+Find Smallest Number:
+Write a program that takes five numbers as input and prints the smallest one.
+
+Check Alphabet:
+Write a program to check if a given input is an alphabet character or not.
+
+Password Validator:
+Check if a password meets the following conditions:
+
+At least 8 characters
+
+Contains at least one number
+
+Contains at least one uppercase letter
+Print whether the password is valid or not.
+
+Fibonacci Sequence:
+Print the first N terms of the Fibonacci sequence using a loop.
+
+Reverse a Number:
+Write a program to reverse the digits of a given integer.
+
+Count Digits:
+Write a program to count the number of digits in a given number.
+
+Sum of Digits:
+Calculate the sum of digits of a given number using a loop.
+
+Number Pyramid:
+Use nested loops to print the following pattern:
+
+1
+12
+123
+1234
+
+
+List Traversal:
+Write a program to traverse through a list of strings and print each string in uppercase.
+
+Find Multiples:
+Print all multiples of 7 between 1 and 100.
+
+Check Palindrome Number:
+Write a program to check if a given number is a palindrome.
+
+Cumulative Sum:
+Print the cumulative sum of numbers from 1 to N.
+
+Guess the Number:
+Write a program that asks the user to guess a pre-defined number. The program should keep asking until the correct number is guessed.

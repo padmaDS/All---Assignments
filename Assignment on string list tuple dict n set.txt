@@ -1,0 +1,177 @@
+
+1. Create a string variable and print its length.
+
+2. Take a string input from the user and print it in reverse.
+
+3. Replace all occurrences of "a" with "@" in a given string.
+
+4. Convert a string to all uppercase letters using a loop (without .upper()).
+
+5. Count how many times the letter "e" appears in a string.
+
+6. Print the first and last character of a given string.
+
+7. Concatenate two strings and print the result.
+
+8. Check if a given string contains the word "Python".
+
+9. Remove all spaces from a string and print the new string.
+
+10.Extract and print the first five characters of a string.
+
+11.Create a list of five numbers and print the list.
+
+12.Print the third element of a given list.
+
+13.Replace the second element of a list with "hello".
+
+14.Add a new element to the end of a list.
+
+15.Remove the last element from a list and print the modified list.
+
+16.Print each element of a list one by one using a loop.
+
+17.Check if the number 10 is in a given list.
+
+18.Create two lists and join them into one.
+
+19.Print a list in reverse order without using slicing ([::-1]).
+
+20.Sort a list in ascending order without using .sort().
+
+21.Create a tuple of three colors and print it.
+
+22.Print the second element of a given tuple.
+
+23.Try changing an element in a tuple (observe the error).
+
+24.Convert a tuple to a list and print it.
+
+25.Check if "blue" exists in a given tuple.
+
+26.Print each element of a tuple using a loop.
+
+27.Merge two tuples and print the result.
+
+28.Print a tuple in reverse order.
+
+29.Find the length of a tuple without using len().
+
+30.Create a tuple with a single element and print its type.
+
+31.Create a string "Hello, World!" and print only "World!".
+
+32.Convert "Python is fun" to "PYTHON IS FUN" without using .upper().
+
+33.Count how many words are in "I love learning Python" (without using .split()).
+
+34.Take a string input from the user and check if it starts with "Hello".
+
+35.Print every second character of a string.
+
+36.Replace all vowels in a string with "*".
+
+37.Swap the first and last character of a string.
+
+38.Check if two given strings are the same (case-sensitive).
+
+39.Print a string without the first and last character.
+
+40.Convert a string "12345" into a list of individual characters.
+
+41.Create a list of five cities and print only the last three.
+
+42.Remove the middle element from a list of five elements.
+
+43.Take five numbers from the user and store them in a list.
+
+44.Find the index of "apple" in the list ["banana", "orange", "apple", "grape"].
+
+45.Print only the even numbers from a given list.
+
+46.Reverse a list by swapping elements (without [::-1]).
+
+47.Create a list of ten numbers and print only the unique elements.
+
+48.Print the sum of all elements in a list (without using sum()).
+
+49.Move the first element of a list to the last position.
+
+50.Create a list with mixed data types (int, float, string) and print each element with its type.
+
+51.Create a tuple of five numbers and print only the first three.
+
+52.Print the last element of a tuple without using negative indexing.
+
+53.Convert a tuple (1, 2, 3, 4, 5) into a list and add a new number.
+
+54.Try deleting an element from a tuple and observe the error.
+
+55.Extract the middle element from a tuple with an odd number of elements.
+
+56.Check if two tuples (1, 2, 3) and (3, 2, 1) are the same.
+
+57.Create a nested tuple and print an inner element.
+
+58.Merge three tuples into one.
+
+59.Find the index of 5 in the tuple (1, 3, 5, 7, 9).
+
+60.Unpack a tuple into separate variables.
+
+61. Create a dictionary with the following key-value pairs:
+	name: "Alice", age: 25, city: "New York"
+62: person = {"name": "Alice", "age": 25, "city": "New York"}
+
+	Print the value associated with the key "city"
+
+63: Update the age of Alice to 26 in the dictionary
+
+64. Add a new key "email" with value "alice@example.com" to the dictionary
+
+65. Delete the key "city" from the dictionary
+
+66. Check if the key "email" exists in the dictionary
+
+67: Create a dictionary of students:
+
+ {
+    "Alice": {"math": 90, "science": 85},     
+    "Bob": {"math": 75, "science": 95}
+ }
+
+Print Bob's science score.
+
+68. Create a set named `fruits` with the items: "apple", "banana", "cherry"
+
+69. Add "orange" to the set `fruits`
+
+70. Remove "banana" from the set `fruits`
+    What happens if you try to remove an item that doesn’t exist?
+
+71. Check if "apple" is in the set `fruits`
+
+72. Given a list: [1, 2, 2, 3, 4, 4, 5]
+    Use a set to remove duplicates
+
+73. Given a sentence: "hello world and hello python"
+    Find all unique words
+74. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

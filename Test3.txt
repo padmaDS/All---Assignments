@@ -1,0 +1,25 @@
+Functions:
+
+1. Write a function to find the maximum of three numbers.
+2. Write a function that takes a number as input and returns its factorial.
+3. Write a function to check if a given string is a palindrome.
+4. Write a function that takes a list of numbers and returns the sum of all even numbers.
+5. Write a function to reverse a string without using built-in functions.
+6. Write a function to count the number of vowels in a given string.
+7. Write a function that accepts a number n and returns the Fibonacci series up to n terms.
+8. Write a function to check if a number is prime or not.
+9. Write a function that takes two numbers as input and returns their greatest common divisor (GCD).
+10. Write a function that accepts a list of numbers and returns a new list with unique elements only.
+
+Object-Oriented Programming (OOP):
+
+1. Create a class Car with attributes brand, model, and year. Add a method to display car details.
+2. Create a class Rectangle with attributes length and width. Add methods to calculate area and perimeter.
+3. Implement a class Student with attributes name and marks. Add a method to check if the student has passed (pass if marks >= 40).
+4. Create a class BankAccount with attributes account_number and balance. Add methods to deposit and withdraw money.
+5. Implement inheritance: Create a Person class with attributes name and age. Then, create a Teacher class that inherits from Person and adds a subject attribute.
+6. Create a class Book with attributes title, author, and price. Add a method to apply a discount on the price.
+7. Implement a class Circle with an attribute radius. Add a method to calculate the area and circumference of the circle.
+8. Demonstrate method overriding by creating a base class Animal with a speak() method and subclasses Dog and Cat that override speak().
+9. Implement a class Employee with attributes name, salary, and designation. Add a method to give a salary increment.
+10. Demonstrate the concept of encapsulation by creating a class Account where the balance is a private attribute and can be accessed/modified only through methods.

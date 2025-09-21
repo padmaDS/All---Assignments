@@ -1,0 +1,29 @@
+1. Basic Class and Object
+Q1: Create a class Car with attributes brand, model, and year. Instantiate an object of this class and print its attributes.
+
+2. Constructors (__init__ Method)
+Q2: Modify the Car class to include a constructor (__init__) that initializes brand, model, and year when an object is created.
+
+3. Instance and Class Methods
+Q3: Add a method car_info() in the Car class that prints details of the car. Create multiple car objects and call this method.
+
+Q4: Add a class variable total_cars that keeps track of how many car objects are created. Implement a class method to return the count.
+
+4. Encapsulation (Getters and Setters)
+Q5: Modify the Car class by making the year attribute private and provide getter and setter methods to access and modify it.
+
+5. Inheritance
+Q6: Create a subclass ElectricCar that inherits from Car and adds an extra attribute battery_capacity. Override the car_info() method to include battery details.
+
+6. Polymorphism
+Q7: Create two classes, Dog and Cat, both having a method make_sound(). Implement polymorphism by calling the method using a loop over a list of different objects.
+
+7. Method Overriding
+Q8: Create a BankAccount class with a method get_interest_rate() that returns 5%. Create a subclass SavingsAccount that overrides the method to return 7%.
+
+8. Abstraction
+Q9: Create an abstract class Shape with an abstract method area(). Then, create subclasses Circle and Rectangle that implement the area() method.
+
+9. Operator Overloading
+Q10: Overload the + operator for a Vector class to allow adding two vectors.
+

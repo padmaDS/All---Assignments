@@ -1,0 +1,73 @@
+1. Write a function that takes two numbers and returns their sum.
+
+2. Write a function that takes a string and returns it reversed.
+
+3. Write a function that checks if a number is even or odd.
+
+4. Write a function that returns the factorial of a number.
+
+5. Write a function that takes a list and returns the maximum element.
+
+6. Print numbers from 1 to 10 using a for loop.
+
+7. Print each character in a string using a for loop.
+
+8. Write a program that sums all numbers in a list using a for loop.
+
+9. Print the multiplication table of a given number using a for loop.
+
+10. Write a program that prints all even numbers from 1 to 50.
+
+11. Print numbers from 1 to 10 using a while loop.
+
+12. Keep taking input from the user until they type "exit".
+
+13. Write a program that finds the sum of digits of a number using a while loop.
+
+14. Guess the number game: Keep asking the user until they guess the correct number.
+
+15. Print the Fibonacci sequence up to n terms using a while loop.
+
+16. Write a function that takes variable number of arguments using *args and returns their sum.
+
+17. Write a program that unpacks a list into separate variables using *.
+
+nums = [1, 2, 3, 4, 5]
+a, *b = nums  # Try printing a and b
+
+18. Create a function that multiplies a number with itself n times using * (e.g., 2 * 3 = 6).
+
+19. Use * to combine two lists into one:
+
+a = [1, 2]
+b = [3, 4]
+
+combined = [*a, *b]
+
+20. Write a function that checks whether a string is a palindrome.
+
+21. Write a function that returns the number of vowels in a given string.
+
+22. Write a function that takes a list of numbers and returns only the even numbers.
+
+23. Write a function that converts Celsius to Fahrenheit.
+
+24. Write a function that takes a string and returns the number of words in it.
+25. Write a function that uses *args and prints all values line by line with their index.
+26. Write a function that takes *args and returns their average.
+27. Keep asking the user to enter a positive number. Stop when they enter a negative number.
+
+28. Write a program to reverse a number using a while loop.
+
+29. Find the first number divisible by both 3 and 5 greater than 100 using while.
+
+30. Use a while loop to check if a number is a prime.
+
+31. Create a countdown timer using while, e.g., from 10 to 1.
+32. Print all elements in a nested list.
+
+33. Count how many times each character appears in a string.
+
+34. Use a for loop to find the largest number in a list without using max().
+
+35. Create a list of squares for numbers from 1 to 10 using a loop.

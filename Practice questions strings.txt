@@ -1,0 +1,82 @@
+Q1: Write a program to take a string input and:
+
+	Print the first and last character.
+
+	Swap them and print the new string.
+
+Q2: Given s = "hello world", write code to:
+
+	Capitalize only the first letter.
+
+	Convert to title case.
+
+	Replace "world" with "Python".
+
+
+Q3: Take a string input,
+
+	Count how many times a particular character occurs in a string.
+
+Q4: Given s = "ABCDEFGHIJK", write code to:
+
+	Extract every 2nd character from index 1 to 10.
+
+	Reverse only the first 5 characters.
+	
+	Print from index 3 to end, skipping every 3rd character.
+
+Q5: Given a messy string like " PyTHon PrACtice ", clean it by:
+
+	Stripping spaces
+
+	Making the case consistent (e.g., title case)
+
+Q6: Check if a string ends with a period (.) or question mark (?).
+
+
+Q7: From the string sentence = "Python is powerful and fast.":
+
+	Print only the word "powerful" using slicing (no split).
+
+	Slice the string to exclude the first and last word.
+
+Q8: Given s = "HelloWorld", print:
+
+	The first 5 characters.
+
+	The last 5 characters.
+
+	Every second character.	
+
+Q9: From text = "abcdefghij", extract:
+
+	"cde"
+
+	"bdfh" (alternate characters starting from 'b')
+
+	Reverse the string.
+
+Q10: Take a string input from the user and:
+
+	Print the middle character (if length is odd).
+
+	Print the two middle characters (if length is even).
+
+
+Q11: From msg = "DataScienceIsFun", extract:
+
+	"Science" using slicing only.
+
+	"FunIsScience" using slicing and concatenation (no split() or list).
+
+Q12: Given s = "ABCDE12345XYZ", extract:
+
+	All letters
+	All digits
+	Reverse only the digits part
+
+Q13: From the sentence:
+	s = "I love programming in Python"
+
+	Extract "love programming" using slicing only.
+

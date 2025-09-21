@@ -1,0 +1,26 @@
+Basic List Comprehension
+
+Create a list of squares of numbers from 1 to 10 using list comprehension.
+Generate a list of even numbers from 1 to 20 using list comprehension.
+Create a list of the first letters of each word in the list: ["apple", "banana", "cherry", "date"].
+Convert a list of temperatures in Celsius [0, 10, 20, 30, 40] to Fahrenheit using list comprehension. (Formula: F = (C * 9/5) + 32)
+
+Create a list of the first 10 natural numbers using list comprehension.
+Generate a list of cubes of numbers from 1 to 10.
+Extract the first character from each word in the list: ["apple", "banana", "cherry", "date"].
+Given a string "Python is fun", create a list of words in the string.
+Convert a list of strings ["Hello", "World", "Python"] to uppercase using list comprehension.
+
+
+
+Conditional List Comprehension
+
+Create a list of numbers from 1 to 50 that are divisible by both 3 and 5.
+Given a list of numbers [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], create a new list containing only the odd numbers.
+Given a string "hello world", create a list of vowels present in the string.
+Convert a list of words ["Hello", "WORLD", "Python", "LiSt"] to lowercase using list comprehension.
+Create a list of even numbers from 1 to 50.
+Generate a list of numbers from 1 to 20 that are not divisible by 3.
+Given a list [5, 12, 17, 9, 3, 21, 30], create a new list containing only numbers greater than 10.
+Create a list of squares of only the even numbers from 1 to 10.
+Given a list of words ["dog", "elephant", "cat", "rabbit"], create a new list containing only words with more than 3 letters.

@@ -1,0 +1,49 @@
+Write and Read a File
+Write a Python program to create a file named sample.txt and write "Hello, World!" into it. Then, read and print the content of the file.
+
+Write Multiple Lines
+Write a program that creates a file fruits.txt and writes the following list into the file, one fruit per line:
+["Apple", "Banana", "Cherry", "Date", "Elderberry"]
+
+Read File Line-by-Line
+Write a program that reads and prints each line of fruits.txt, stripping the newline character.
+
+Append to a File
+Append "Fig" and "Grapes" to fruits.txt. Then, print the updated contents.
+
+Count Lines in a File
+Write a program that counts and prints the number of lines in fruits.txt.
+
+Create and Write Name
+Write a program that prompts the user to enter their name and saves it in a file called user.txt.
+
+Read First Line Only
+Write a program that opens a file and prints only the first line.
+
+Check File Exists
+Write a program that checks if notes.txt exists. If it does, print its contents. If not, print "File not found."
+
+Write Numbers to File
+Write numbers from 1 to 10, one per line, into a file called numbers.txt.
+
+Read All Characters
+Read the entire contents of numbers.txt as one string and print it.
+
+Uppercase File Content
+Read a file and print its content in uppercase.
+
+File Extension Check
+Ask the user to enter a filename and print whether the file is a .txt file or not.
+
+Delete a File
+Write a program that deletes a file named temp.txt if it exists.
+
+File Character Count
+Write a program that reads a file and prints how many characters it contains (including spaces and punctuation).
+
+Even and Odd Lines
+Read a file and print:
+
+All even-numbered lines
+
+All odd-numbered lines

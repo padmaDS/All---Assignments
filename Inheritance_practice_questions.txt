@@ -1,0 +1,8 @@
+Write a simple program demonstrating single inheritance in Python.
+Create a program where a Vehicle class is inherited by a Car class.
+Implement multiple inheritance with an example.
+Write a program where a child class calls the constructor of the parent class.
+Write a program to demonstrate method overriding.
+Create a class Animal and inherit it into two classes Dog and Cat. Each class should have a method make_sound().
+Demonstrate the use of super() in a derived class constructor.
+Implement multi-level inheritance and show how data flows through different levels.

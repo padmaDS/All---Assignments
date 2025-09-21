@@ -1,0 +1,59 @@
+
+1. Write a program that takes a number as input and prints whether it is even or odd.
+
+2. Positive, Negative, or Zero
+
+Take a number from the user and print whether it is positive, negative, or zero.
+
+3. Ask the user for their age and print whether they are eligible to vote (18 or older).
+
+4. Write a program to find the larger of two numbers entered by the user.
+
+5. Ask the user to enter a mark (0–100). Print:
+
+"Fail" if below 40
+
+"Pass" if 40–59
+
+"Good" if 60–79
+
+"Excellent" if 80–100
+
+"Invalid mark" otherwise
+
+6. Ask the user to enter a year and check if it's a leap year or not.
+
+7. Ask the user to enter a password and check if it matches "OpenAI123".
+
+If yes, print "Access granted"
+
+If not, print "Incorrect password"
+
+
+8. Write a program that checks:
+
+If a number is divisible by both 3 and 5 → print "FizzBuzz"
+
+If only divisible by 3 → print "Fizz"
+
+If only divisible by 5 → print "Buzz"
+
+Otherwise → print the number
+
+9. Take 3 sides of a triangle as input and determine whether it’s:
+
+Equilateral (all sides equal)
+
+Isosceles (two sides equal)
+
+Scalene (all sides different)
+
+10. Ask the user to enter the current hour (0–23), and display:
+
+"Good Morning" (5–11)
+
+"Good Afternoon" (12–16)
+
+"Good Evening" (17–20)
+
+"Good Night" (21–4)

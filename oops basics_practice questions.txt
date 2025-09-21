@@ -1,0 +1,31 @@
+1. Basic Class and Object
+👉 Practice Questions:
+
+1. Create a class called Car with attributes brand, model, and year. Create an object of this class and display its attributes.
+2. Create a class Person with attributes name and age. Create an object and print its attributes.
+3. Define a class Book with attributes title, author, and price. Create multiple objects with different values.
+4. Write a MobilePhone class with attributes brand, model, and price. Create an object and print its details.
+5. Create a Laptop class with attributes brand, ram_size, and processor. Assign values and print them using an object.
+6. Define a Movie class with attributes title, genre, and rating. Create objects and display their attributes.
+
+👉 Challenges:
+
+Modify the Book class to add a method discount_price(discount_percent) that reduces the price based on a given percentage.
+Extend the Person class to include a method is_adult() that returns True if age is 18 or more.
+
+2. Constructor and Methods
+
+1. Modify the Car class to include a constructor that initializes the attributes. Add a method display_info() to print the details of the car.Create multiple objects of the class and call the method.
+2. Modify the Person class to include a constructor that initializes name and age when an object is created.
+3. Create a Rectangle class with attributes length and width, and a constructor to initialize them. Add a method area() to calculate the area.
+Define a Car class with attributes brand, model, and year. Use a constructor to initialize these values and add a method car_age() to calculate how old the car is.
+Implement a BankAccount class with attributes account_number and balance. Use a constructor to set initial values and methods to deposit() and withdraw() money.
+Write a Student class with attributes name, marks, and subject. Include:
+A constructor to initialize these attributes.
+A method display_details() to print student details.
+
+👉 Challenges:
+
+Modify the Rectangle class to include a method perimeter() that returns the perimeter.
+Update the BankAccount class to include a method check_balance() that returns the account balance.
+Implement a Gadget class with a constructor that sets a default value for price if it's not provided.
